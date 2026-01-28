@@ -84,7 +84,7 @@ Ensure:
 Navigate to the Python foundations section and proceed **day-wise**:
 
 ```
-00-python-foundations/
+python-foundations/
 ├── day1/
 ├── day2/
 └── day3/
@@ -409,3 +409,4 @@ Build slowly. Build correctly. Build systems that last.
 
 ```
 ```
+
